@@ -1,0 +1,20 @@
+{
+  "base_url": "https://store.steampowered.com/",
+  "search_base_url": "https://store.steampowered.com/search/?term=",
+  "free_url": "https://store.steampowered.com/genre/Free%20to%20Play/",
+  "tags": {
+    "game_name": "div.tab_item_name",
+    "genre": "div.tab_item_top_tags"
+  },
+  "div_class": {
+    "name": "tab_item_name",
+    "genre": "tab_item_top_tags",
+    "final_price": "discount_final_price"
+  },
+  "span_class": {
+    "genre_item": "top_tag"
+  },
+  "a_class": {
+    "game": "tab_item   app_impression_tracked"
+  }
+}
